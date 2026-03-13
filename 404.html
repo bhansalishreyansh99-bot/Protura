@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<script>
+  // GitHub Pages SPA redirect
+  // Captures the route and sends it to index.html via sessionStorage
+  var page = window.location.pathname.replace(/\/$/, '').split('/').pop();
+  sessionStorage.setItem('redirect_page', page);
+  window.location.replace('/');
+</script>
+</head>
+<body></body>
+</html>
