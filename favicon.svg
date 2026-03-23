@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="fav-title fav-desc">
+<title id="fav-title">Protura Favicon</title>
+<desc id="fav-desc">Favicon for Protura Legal Consultancy. A bold green letter P on a dark background with subtle green topographic wave lines. Used as the browser tab icon and bookmark icon for protura.in.</desc>
+<rect width="500" height="500" rx="50" fill="#0b0b12"/>
+<g stroke="#00e6a0" fill="none" stroke-width="2">
+<path d="M-20,480 Q60,440 120,460 Q200,490 280,470 Q380,445 440,465 Q490,480 520,460" opacity="0.12"/>
+<path d="M-20,440 Q50,400 130,420 Q210,450 290,420 Q370,395 440,420 Q500,440 530,415" opacity="0.14"/>
+<path d="M-10,400 Q70,355 150,380 Q230,410 300,375 Q360,350 430,375 Q490,395 530,370" opacity="0.12"/>
+<path d="M-10,360 Q80,310 160,340 Q240,370 310,330 Q370,300 435,330 Q490,350 530,325" opacity="0.16"/>
+<path d="M0,320 Q90,270 170,300 Q250,330 320,285 Q380,255 440,285 Q495,310 530,280" opacity="0.14"/>
+<path d="M0,280 Q100,225 180,260 Q260,295 330,245 Q390,210 445,240 Q500,265 530,235" opacity="0.18"/>
+<path d="M10,240 Q110,185 190,218 Q268,248 340,205 Q400,170 450,200 Q500,222 530,195" opacity="0.2"/>
+<path d="M10,200 Q115,145 200,178 Q268,200 350,165 Q405,135 455,160 Q505,180 530,155" opacity="0.18"/>
+<path d="M20,160 Q120,110 210,140 Q275,160 355,125 Q410,100 460,122 Q505,140 530,118" opacity="0.16"/>
+<path d="M20,125 Q130,75 215,105 Q280,125 360,88 Q415,65 465,85 Q510,100 530,82" opacity="0.14"/>
+<path d="M30,90 Q140,42 225,70 Q290,90 365,55 Q420,35 470,52 Q510,65 530,48" opacity="0.12"/>
+<path d="M40,55 Q150,15 230,40 Q300,58 370,28 Q425,10 475,24 Q515,35 535,20" opacity="0.1"/>
+</g>
+<text x="250" y="310" text-anchor="middle" font-family="Segoe UI,sans-serif" font-size="340" font-weight="700" fill="#eeeef5">P</text>
+<rect x="100" y="370" width="300" height="20" rx="8" fill="#00e6a0"/>
+</svg>
